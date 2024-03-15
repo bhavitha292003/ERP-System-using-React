@@ -1,0 +1,48 @@
+/* Dashboard.css */
+/* Dashboard.css */
+
+.dashboard-container {
+    text-align: center; /* Center-align all content */
+  }
+  
+  .title-container {
+    margin-bottom: 20px; /* Add some space below the title */
+  }
+  
+  .title-container h1 {
+    font-size: 2.5rem; /* Adjust the font size as needed */
+    margin: 0; /* Remove default margin to ensure title is centered */
+  }
+  
+.dashboard-container {
+    padding: 20px;
+    background-color: #5fe380;
+    border-radius: 5px;
+    padding: 100px;
+    box-shadow: 0 2px 4px rgba(240, 35, 35, 0.1);
+  }
+  
+  .summary {
+    background-color: #dafc75;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .navigation-links {
+    background-color: #8bd6f4;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .navigation-link {
+    display: block;
+    margin-bottom: 10px;
+    color: #f810a3f6;
+    text-decoration: none;
+  }
+  
+  .navigation-link:hover {
+    text-decoration: underline;
+  }
+  
